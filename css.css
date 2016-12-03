@@ -1,0 +1,119 @@
+@media(min-width:992px)
+{
+.containera
+ {
+   width : 30%;
+   background-color: #00FFFF;
+   display: inline-block;
+   margin : 10px 10px 10px 25px;
+border-style: solid;
+border-color: black;   
+ }
+ .containerb
+ {
+   width : 30%; 
+   background-color: #7FFFD4;
+   display: inline-block;
+   margin : 10px;
+   border-style: solid;
+border-color: black;
+ }
+ .containerc
+ {
+   width : 30%;
+   background-color: #00BFFF;
+   display: inline-block;
+   margin : 10px;
+border-style: solid;
+border-color: black;   
+ }
+}
+@media(max-width:991px) and (min-width:768px)
+{
+.containera
+ {
+   width : 47%;
+   background-color: #00FFFF;
+   display: inline-block;
+   margin : 15px;
+border-style: solid;
+border-color: black;   
+ }
+ .containerb
+ {
+   width : 47%; 
+   background-color: #7FFFD4;
+   display: inline-block;
+   margin : 5px;
+   border-style: solid;
+border-color: black;
+ }
+.containerc
+ {
+   width : 97%; 
+   background-color: #00BFFF;
+   display: inline-block;
+   margin : 15px;
+   border-style: solid;
+border-color: black;
+ }
+}
+@media(max-width:767px)
+{
+.containera
+ {
+   width : 90%; 
+    background-color: #00FFFF;
+	display: inline-block;
+	margin : 15px;
+	border-style: solid;
+border-color: black;
+ }
+ .containerb
+ {
+   width : 90%; 
+   background-color: #7FFFD4;
+   display: inline-block;
+   margin : 15px;
+   border-style: solid;
+border-color: black;
+ }
+ .containerc
+ {
+   width : 90%; 
+   background-color: #00BFFF;
+   display: inline-block;
+   margin : 15px;
+   border-style: solid;
+border-color: black;
+ }
+}
+div.a{
+  padding:10px;
+}
+section{
+top:0;
+right:0;
+width:36%;
+float:right;
+margin-right:0px;
+
+ 
+}
+h1{
+font-family:Perpetua Titling MT;
+}
+h2{
+border-style: solid;
+border-color: black;
+border-right-width: 0px;
+border-top-width: 0px;
+margin-top:0px;
+position:relative;
+background-color:blue;
+color:white;
+padding:0px;
+}
+body{
+background-color:	#FFE4C4;
+}
